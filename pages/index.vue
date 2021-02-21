@@ -5,6 +5,9 @@
       <h1 class="title">
         nuxtjs
       </h1>
+      <NuxtLink to="/about">
+        About (internal link that belongs to the Nuxt App)
+      </NuxtLink>
       <h2 class="subtitle">
         My astonishing Nuxt.js project
       </h2>
