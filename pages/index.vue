@@ -20,11 +20,11 @@
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://bayudiarsa.com"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          Bayu
         </a>
       </div>
     </div>
